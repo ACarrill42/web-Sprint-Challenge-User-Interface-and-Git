@@ -119,83 +119,17 @@ p {
     justify-content: space-evenly;
 }
 
-.middle-content .boxes{
+.middle-content .boxes .box{
     display: flex;
     justify-content: center;
-    align-items: baseline;
-    text-align: center;
-    vertical-align: middle;
-
-}
-.box1{
+    align-items: center;
     background: teal;
     width: 12.5%;
     height: 100px;
     margin: 20px 2.5%;
     color: white;
 }
-.box2{
-    background: gold;
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-}
-.box3{
-    background: cadetblue;
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-}
-.box4{
-    background: coral;
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-}
-.box5{
-    background: crimson;
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-}
-.box6{
-    background: forestgreen;
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-}
-.box7{
-    background: darkorchid;
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-}
-.box8{
-    background: hotpink;
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-}
-.box9{
-    background: indigo;
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
-}
-.box0{
-    background: dodgerblue;
-    width: 12.5%;
-    height: 100px;
-    margin: 20px 2.5%;
-    color: white;
+
 }
 
 .bottom-content {
