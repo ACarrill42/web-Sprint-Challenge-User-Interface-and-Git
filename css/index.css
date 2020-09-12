@@ -55,7 +55,7 @@ table {
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
-    font-weight: bold;
+
 }
 .header{
     display:flex;
@@ -121,8 +121,11 @@ p {
 
 .middle-content .boxes{
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: baseline;
+    text-align: center;
+    vertical-align: middle;
+
 }
 .box1{
     background: teal;
@@ -130,8 +133,6 @@ p {
     height: 100px;
     margin: 20px 2.5%;
     color: white;
-    align-items: center;
-    justify-content: center;
 }
 .box2{
     background: gold;
