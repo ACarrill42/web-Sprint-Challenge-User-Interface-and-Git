@@ -123,13 +123,11 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: teal;
     width: 12.5%;
     height: 100px;
     margin: 20px 2.5%;
     color: white;
-}
-
+    background: teal;
 }
 
 .bottom-content {
@@ -164,3 +162,5 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/*-----------------------------------------------------------------------------------*/
+
