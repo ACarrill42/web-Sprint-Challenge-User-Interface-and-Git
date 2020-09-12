@@ -69,7 +69,15 @@ table {
     color:black;
 }
 #header-image{
-    border-bottom: 2px dotted black;
     padding: 1.25em;
     margin: 2em;
+}
+.container-about-page{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid hotpink;
+}
+.about-page{
+    border: 2px solid hotpink;
+
 }
