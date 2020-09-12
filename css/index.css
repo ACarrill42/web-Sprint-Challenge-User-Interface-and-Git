@@ -60,10 +60,17 @@ html, body {
     display:flex;
     align-items:center;
     align-items:baseline;
-    border: 2px solid black;
+    padding: 1.25em 0;
+    font-size: .75em;
+    font-weight: bold;
 }
 .button{
-    padding: 2.25em;
+    padding: 3.5em;
+    text-decoration: none;
+    color:black;
+}
+#image{
+    padding: 1em 0;
 }
 
 h1, h2, h3, h4, h5 {
