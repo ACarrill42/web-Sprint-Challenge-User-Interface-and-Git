@@ -117,25 +117,25 @@ h2{
     padding-bottom: 1em;
 }
 #strategy{
-    width:33%;
+    width:40%;
     margin: 3em;
     padding: 1em;
     border-bottom: 1px dashed black;
 }
 #how-work{
-    width: 33%;
+    width: 40%;
     margin: 3em;
     padding: 1em;
     border-bottom: 1px dashed black;
 }
 #places-work{
-    width: 33%;
+    width: 40%;
     margin: 3em;
     padding: 1em;
     border-bottom: 1px dashed black;
 }
 #collab{
-    width: 33%;
+    width: 40%;
     margin: 3em;
     padding: 1em;
     border-bottom: 1px dashed black;
@@ -151,6 +151,7 @@ button{
 }
 #sub-footer{
 width: 90%;
+padding-bottom: 3em;
 }
 footer{
     background:black;
